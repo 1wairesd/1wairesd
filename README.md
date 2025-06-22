@@ -5,9 +5,9 @@
 
 <h2>:fire: My Stats :</h2>
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=1wairesd&theme=dark&background=000000" />
-  <img src="https://github-readme-stats.vercel.app/api/?username=1wairesd&theme=dark&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1wairesd&layout=compact" />
+  <img width="300" src="http://github-readme-streak-stats.herokuapp.com?user=1wairesd&theme=dark&background=000000" />
+  <img width="300" src="https://github-readme-stats.vercel.app/api/?username=1wairesd&theme=dark&show_icons=true" />
+  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1wairesd&layout=compact" />
 </p>
 
 # 🧩 𝟙𝕨𝕒𝕚𝕣𝕖𝕤𝕕 — code, chaos & comfort
