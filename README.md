@@ -10,7 +10,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1wairesd&layout=compact" />
 </p>
 
-
 # 🧩 𝟙𝕨𝕒𝕚𝕣𝕖𝕤𝕕 — code, chaos & comfort
 
 ```yaml
