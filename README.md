@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:111111,100:222222&height=200&section=header&text=Welcome%20to%20my%20domain&fontColor=ffffff&fontSize=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:111111,100:222222&height=120&section=header&text=Welcome%20to%20my%20domain&fontColor=ffffff&fontSize=28&animation=fadeIn" />
 </p>
 
 <h2>:fire: My Stats :</h2>
