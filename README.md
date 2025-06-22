@@ -6,7 +6,7 @@
 <h2>:fire: My Stats :</h2>
 <p align="center">
   <img width="370" src="http://github-readme-streak-stats.herokuapp.com?user=1wairesd&theme=dark&background=000000" />
-  <img width="350" src="https://github-readme-stats.vercel.app/api/?username=1wairesd&theme=dark&show_icons=true" />
+  <img width="346" src="https://github-readme-stats.vercel.app/api/?username=1wairesd&theme=dark&show_icons=true" />
   <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1wairesd&layout=compact" />
 </p>
 
