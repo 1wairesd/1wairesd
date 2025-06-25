@@ -13,7 +13,7 @@
 # 🧩 𝟙𝕨𝕒𝕚𝕣𝕖𝕤𝕕 — code, chaos & comfort
 
 ```yaml
-💻 Focused on:    Java, Spigot, JS, C++
+💻 Focused on:    Java, JS, C++, Python, PHP, SQL, Kotlin
 🖤 Theme:         Dark, minimal, moody
 🧠 Philosophy:    Code is poetry
 🎯 Goal:          Make systems that feel alive
