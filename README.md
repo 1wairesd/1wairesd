@@ -10,7 +10,7 @@
 <h2>My Stats :</h2>
 <p align="center">
   <!-- Streak Stats -->
-  <img width="370" src="http://github-readme-streak-stats.herokuapp.com?user=1wairesd&theme=dark&background=000000" />
+  <img width="370" src="https://github-readme-streak-stats.herokuapp.com?user=1wairesd&theme=dark&background=000000" />
   
   <!-- GitHub Stats -->
   <img width="349" src="https://github-readme-stats.vercel.app/api/?username=1wairesd&theme=dark&show_icons=true&bg_color=000000" />
