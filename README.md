@@ -23,10 +23,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:222222&height=40&section=footer" />
 </p>
 
-#  𝟙𝕨𝕒𝕚𝕣𝕖𝕤𝕕 — code, chaos & comfort
+#  𝟙𝕨𝕒𝕚𝕣𝕖𝕤𝕕
 
 ```yaml
-Focused on:    Java, JS, C++, Python, PHP, SQL, Kotlin
+Focused on:    Java, JS, C++, Python, PHP, SQL
 Theme:         Dark, minimal, moody
 Philosophy:    Code is poetry
 Goal:          Make systems that feel alive
