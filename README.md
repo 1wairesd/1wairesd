@@ -6,7 +6,7 @@
 #  𝟙𝕨𝕒𝕚𝕣𝕖𝕤𝕕
 
 ```yaml
-Focused on:    Java, JS, C++, Python, PHP, SQL
+Focused on:    Java, JS, C++, Python, PHP, SQL, TS
 Theme:         Dark, minimal, moody
 Philosophy:    Code is poetry
 Goal:          Make systems that feel alive
